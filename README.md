@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### hackthebox
+![htb](https://www.hackthebox.com/badge/image/500865)
+
+#### Github
+![mark0smith](https://github-readme-stats.vercel.app/api?username=mark0smith)
